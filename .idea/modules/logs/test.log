@@ -1,0 +1,30 @@
+15:42:17.425 [main] INFO  scenarios.Sample1 - Running Test Suite
+15:42:18.530 [main] DEBUG common.CsvLoader - Loading data from /Users/akalinichev/projects/test-fw/.idea/modules/../../user-files/Sample1.csv ...
+15:42:18.616 [main] DEBUG scenarios.Sample1 - >>>>>>>>>>>
+15:42:18.617 [main] INFO  scenarios.Sample1 - STARTED: sampleTest1
+15:42:18.618 [main] DEBUG scenarios.Sample1 - Running test 1, test1...
+15:42:18.618 [main] INFO  scenarios.Sample1 - Method sampleTest1 FINISHED with status = PASS
+15:42:18.620 [main] DEBUG scenarios.Sample1 - >>>>>>>>>>>
+15:42:18.620 [main] INFO  scenarios.Sample1 - STARTED: sampleTest1
+15:42:18.621 [main] DEBUG scenarios.Sample1 - Running test 2, test2...
+15:42:18.621 [main] INFO  scenarios.Sample1 - Method sampleTest1 FINISHED with status = PASS
+15:42:35.114 [main] INFO  scenarios.Sample1 - Running Test Suite
+15:42:36.321 [main] DEBUG common.CsvLoader - Loading data from /Users/akalinichev/projects/test-fw/.idea/modules/../../user-files/Sample1.csv ...
+15:42:36.419 [main] DEBUG scenarios.Sample1 - >>>>>>>>>>>
+15:42:36.419 [main] INFO  scenarios.Sample1 - STARTED: sampleTest1
+15:42:36.420 [main] DEBUG scenarios.Sample1 - Running test 1, test1...
+15:42:36.421 [main] INFO  scenarios.Sample1 - Method sampleTest1 FINISHED with status = PASS
+15:42:36.423 [main] DEBUG scenarios.Sample1 - >>>>>>>>>>>
+15:42:36.423 [main] INFO  scenarios.Sample1 - STARTED: sampleTest1
+15:42:36.424 [main] DEBUG scenarios.Sample1 - Running test 2, test2...
+15:42:36.424 [main] INFO  scenarios.Sample1 - Method sampleTest1 FINISHED with status = PASS
+15:53:55.308 [main] INFO  s.Sample1 - Running Test Suite
+15:53:56.268 [main] DEBUG c.CsvLoader - Loading data from /Users/akalinichev/projects/test-fw/.idea/modules/../../user-files/Sample1.csv ...
+15:53:56.351 [main] DEBUG s.Sample1 - >>>>>>>>>>>
+15:53:56.351 [main] INFO  s.Sample1 - STARTED: sampleTest1
+15:53:56.352 [main] DEBUG s.Sample1 - Running test 1, test1...
+15:53:56.353 [main] INFO  s.Sample1 - Method sampleTest1 FINISHED with status = PASS
+15:53:56.354 [main] DEBUG s.Sample1 - >>>>>>>>>>>
+15:53:56.355 [main] INFO  s.Sample1 - STARTED: sampleTest1
+15:53:56.355 [main] DEBUG s.Sample1 - Running test 2, test2...
+15:53:56.355 [main] INFO  s.Sample1 - Method sampleTest1 FINISHED with status = PASS

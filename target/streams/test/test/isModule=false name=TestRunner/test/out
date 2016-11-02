@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mTestRunner:[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: TestRunner *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.io.FileNotFoundException: /Users/akalinichev/projects/test-fw/src/test/resources/testsuite-autorun.xml[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.testng.TestNGWrapperSuite$$anonfun$addXmlSuitesToTestNG$1.apply(TestNGWrapperSuite.scala:131)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.testng.TestNGWrapperSuite$$anonfun$addXmlSuitesToTestNG$1.apply(TestNGWrapperSuite.scala:129)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.List.foreach(List.scala:381)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.testng.TestNGWrapperSuite.addXmlSuitesToTestNG(TestNGWrapperSuite.scala:129)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.testng.TestNGWrapperSuite.runTestNG(TestNGWrapperSuite.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.testng.TestNGWrapperSuite.run(TestNGWrapperSuite.scala:73)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:466)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.tools.Framework$ScalaTestTask.execute(Framework.scala:677)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at sbt.TestRunner.runTest$1(TestFramework.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at sbt.TestRunner.run(TestFramework.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/akalinichev/projects/test-fw/src/test/resources/logback.xml,/Users/akalinichev/projects/test-fw/target/scala-2.11/test-classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/akalinichev/projects/test-fw/src/test/resources/reference.conf,/Users/akalinichev/projects/test-fw/target/scala-2.11/test-classes/reference.conf)[0m

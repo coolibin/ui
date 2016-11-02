@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI- autorun test suite" parallel="classes" thread-count="10">
+    <listeners>
+        <!--<listener class-name="util.CustomReporterXML"/>-->
+    </listeners>
+    <test name="Sample test suite">
+        <classes>
+            <class name="scenarios.Sample1"/>
+        </classes>
+    </test>
+</suite>
